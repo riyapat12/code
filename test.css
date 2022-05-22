@@ -1,0 +1,19 @@
+.navbar-brand{
+    color: hotpink;
+    color: aliceblue; margin-left: 20px; font-size: 15px; font-family: monospace;
+}
+small{
+    color: hotpink;
+    margin-bottom:15px;
+}
+nav{
+    background-color: cadetblue;
+    height: 53px; 
+    border-bottom: red solid 5px;
+}
+.nav-link{
+    color: black;
+}
+body{
+    background-image: url("herobanner2.jpg");
+}
